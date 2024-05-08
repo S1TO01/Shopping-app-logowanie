@@ -1,0 +1,14 @@
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\bin\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.exe
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\bin\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.deps.json
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\bin\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.runtimeconfig.json
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\bin\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.dll
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\bin\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.pdb
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\obj\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\obj\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.AssemblyInfoInputs.cache
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\obj\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.AssemblyInfo.cs
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\obj\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.csproj.CoreCompileInputs.cache
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\obj\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.dll
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\obj\Debug\net6.0\refint\Projekt Stanowiska kasowego w sklepie.dll
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\obj\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.pdb
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\obj\Debug\net6.0\Projekt Stanowiska kasowego w sklepie.genruntimeconfig.cache
+E:\Zadania w domu\Projekt Stanowiska kasowego w sklepie\obj\Debug\net6.0\ref\Projekt Stanowiska kasowego w sklepie.dll
